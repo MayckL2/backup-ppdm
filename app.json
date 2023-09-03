@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ppdm-calculadora",
-    "slug": "snack-11c30042-1b99-4f0c-9dcf-319dd1322613",
+    "name": "ppdm-calculadora-correta",
+    "slug": "ppdm-calculadora-correta",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
